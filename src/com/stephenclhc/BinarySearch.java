@@ -1,7 +1,7 @@
 package com.stephenclhc;
 
 public class BinarySearch {
-    // 704 BinarySearch
+    // 704. BinarySearch
 
     public int search(int[] nums, int target) {
         int leftIndex = 0;
