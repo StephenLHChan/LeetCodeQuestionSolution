@@ -13,7 +13,7 @@ public class FirstBadVersion {
 
         int middle = 0;
         while (left < right) {
-            middle = (left + right) / 2;
+            middle = (left + right) / 2; // It is better to code -> middle = left + (right - left) / 2
 
             if (isBadVersion(middle))
                 right = middle;
