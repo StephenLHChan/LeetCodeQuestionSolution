@@ -1,4 +1,4 @@
-package com.stephenclhc;
+package com.stephenlhc;
 
 public class RichestCustomerWealth {
     // 1672. Richest Customer Wealth

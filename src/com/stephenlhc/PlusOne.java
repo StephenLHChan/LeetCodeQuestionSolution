@@ -1,4 +1,4 @@
-package com.stephenclhc;
+package com.stephenlhc;
 
 public class PlusOne {
     // 66. Plus One

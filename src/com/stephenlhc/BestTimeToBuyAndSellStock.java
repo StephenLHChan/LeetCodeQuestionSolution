@@ -1,4 +1,4 @@
-package com.stephenclhc;
+package com.stephenlhc;
 
 public class BestTimeToBuyAndSellStock {
     // 121. Best Time to Buy and Sell Stock

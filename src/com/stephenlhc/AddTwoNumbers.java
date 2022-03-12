@@ -1,4 +1,4 @@
-package com.stephenclhc;
+package com.stephenlhc;
 
 public class AddTwoNumbers {
     // 2. Add Two Numbers

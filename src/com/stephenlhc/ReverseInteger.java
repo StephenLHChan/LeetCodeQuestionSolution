@@ -1,4 +1,4 @@
-package com.stephenclhc;
+package com.stephenlhc;
 
 public class ReverseInteger {
     // 7. Reverse Integer

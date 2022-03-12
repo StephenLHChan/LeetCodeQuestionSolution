@@ -1,4 +1,4 @@
-package com.stephenclhc;
+package com.stephenlhc;
 
 public class ConvertSortedArrayToBST {
 // 108. Convert Sorted Array to Binary Search Tree

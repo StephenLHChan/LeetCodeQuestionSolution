@@ -1,4 +1,4 @@
-package com.stephenclhc;
+package com.stephenlhc;
 
 public class SearchInsertPosition {
     // 35. Search Insert Position

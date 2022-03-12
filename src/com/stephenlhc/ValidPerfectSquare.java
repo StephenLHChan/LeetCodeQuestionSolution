@@ -1,4 +1,4 @@
-package com.stephenclhc;
+package com.stephenlhc;
 
 public class ValidPerfectSquare {
     // 367. Valid Perfect Square

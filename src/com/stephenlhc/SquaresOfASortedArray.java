@@ -1,4 +1,4 @@
-package com.stephenclhc;
+package com.stephenlhc;
 
 public class SquaresOfASortedArray {
     // 977. Squares of a Sorted Array

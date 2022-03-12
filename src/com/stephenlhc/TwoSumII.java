@@ -1,4 +1,4 @@
-package com.stephenclhc;
+package com.stephenlhc;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -25,6 +25,7 @@ public class TwoSumII {
         int firstIndex = 0;
         int lastIndex = numbers.length - 1;
 
+        //may consider adding middleIndex pointer
         while(firstIndex < lastIndex) {
             int sum = numbers[firstIndex] + numbers[lastIndex];
 
