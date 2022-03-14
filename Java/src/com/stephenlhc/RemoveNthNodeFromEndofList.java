@@ -1,6 +1,7 @@
 package com.stephenlhc;
 
 public class RemoveNthNodeFromEndofList {
+//  19. Remove Nth Node From End of List
 
     public ListNode removeNthFromEnd(ListNode head, int n) {
         var slow = head;
