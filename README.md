@@ -1,6 +1,4 @@
-This is my solution to the LeetCode Questions in 
-* Java
-* Python
+This is my solution to the LeetCode Questions in Java and Python
 
 
 2. Add Two Numbers
@@ -46,8 +44,6 @@ This is my solution to the LeetCode Questions in
 367. Valid Perfect Square
 * [Java](../master/Java/src/com/stephenlhc/ValidPerfectSquare.java)
 
-
-
 617. Merge Two Binary Trees
 * [Java](../master/Java/src/com/stephenlhc/MergeTwoBinaryTrees.java)
 
@@ -56,7 +52,6 @@ This is my solution to the LeetCode Questions in
 
 977. Squares of a Sorted Array
 * [Java](../master/Java/src/com/stephenlhc/SquaresOfASortedArray.java)
-
 
 1523. Count Odd Numbers in an Interval Range
 * [Java](../master/Java/src/com/stephenlhc/CountOddNumbersInAnIntervalRange.java)
