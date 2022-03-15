@@ -7,7 +7,6 @@ This is my solution to the LeetCode Questions in Java and Python
 7. Reverse Integer
 * [Java](../master/Java/src/com/stephenlhc/ReverseInteger.java)
 
-
 19. Remove Nth Node From End of List
 * [Java](../master/Java/src/com/stephenlhc/RemoveNthNodeFromEndofList.java)
 
@@ -50,6 +49,8 @@ This is my solution to the LeetCode Questions in Java and Python
 
 704. BinarySearch
 * [Java](../master/Java/src/com/stephenlhc/BinarySearch.java)
+* [Python](../master/Python/Binary_Search.py)
+
 
 977. Squares of a Sorted Array
 * [Java](../master/Java/src/com/stephenlhc/SquaresOfASortedArray.java)
