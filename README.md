@@ -29,6 +29,9 @@ This is my solution to the LeetCode Questions in Java and Python
 191. Number of 1 Bits
 * [Python](../master/Python/Number_Of_1_Bits.py)
 
+202. Happy Number
+* [Java](../master/Java/src/com/stephenlhc/HappyNumber.java)
+
 219. Contains Duplicate II
 * [Java](../master/Java/src/com/stephenlhc/ContainsDuplicateII.java)
 
