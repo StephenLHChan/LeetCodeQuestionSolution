@@ -55,6 +55,9 @@ This is my solution to the LeetCode Questions in Java and Python
 977. Squares of a Sorted Array
 * [Java](../master/Java/src/com/stephenlhc/SquaresOfASortedArray.java)
 
+1491. Average Salary Excluding the Minimum and Maximum Salary
+* [Python](../master/Python/Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.py)
+
 1523. Count Odd Numbers in an Interval Range
 * [Java](../master/Java/src/com/stephenlhc/CountOddNumbersInAnIntervalRange.java)
 * [Python](../master/Python/Count_Odd_Numbers_in_an_Interval_Range.py)
