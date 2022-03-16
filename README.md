@@ -26,6 +26,9 @@ This is my solution to the LeetCode Questions in Java and Python
 167. Two Sum II - Input Array Is Sorted
 * [Java](../master/Java/src/com/stephenlhc/TwoSumII.java)
 
+191. Number of 1 Bits
+* [Python](../master/Python/Number_Of_1_Bits.py)
+
 219. Contains Duplicate II
 * [Java](../master/Java/src/com/stephenlhc/ContainsDuplicateII.java)
 
