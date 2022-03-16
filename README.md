@@ -55,6 +55,9 @@ This is my solution to the LeetCode Questions in Java and Python
 977. Squares of a Sorted Array
 * [Java](../master/Java/src/com/stephenlhc/SquaresOfASortedArray.java)
 
+1281. Subtract the Product and Sum of Digits of an Integer
+* [Python](../master/Python/Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.py)
+
 1491. Average Salary Excluding the Minimum and Maximum Salary
 * [Python](../master/Python/Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.py)
 
