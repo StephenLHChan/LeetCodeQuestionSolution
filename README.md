@@ -31,6 +31,7 @@ This is my solution to the LeetCode Questions in Java and Python
 
 202. Happy Number
 * [Java](../master/Java/src/com/stephenlhc/HappyNumber.java)
+* [Python](../master/Python/Happy_Number.py)
 
 219. Contains Duplicate II
 * [Java](../master/Java/src/com/stephenlhc/ContainsDuplicateII.java)
