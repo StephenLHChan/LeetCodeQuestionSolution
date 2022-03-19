@@ -1,5 +1,7 @@
 This is my solution to the LeetCode Questions in Java and Python
-
+1. Two Sum
+* [Java](../master/Java/src/com/stephenlhc/TwoSum.java)
+* [Python](../master/Python/Two_Sum.py)
 
 2. Add Two Numbers
 * [Java](../master/Java/src/com/stephenlhc/AddTwoNumbers.java)
