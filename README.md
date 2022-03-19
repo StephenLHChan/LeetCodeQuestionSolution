@@ -6,6 +6,9 @@ This is my solution to the LeetCode Questions in Java and Python
 2. Add Two Numbers
 * [Java](../master/Java/src/com/stephenlhc/AddTwoNumbers.java)
 
+4. Median of Two Sorted Arrays
+* [Python](../master/Python/Median_of_Two_Sorted_Arrays.py)
+
 7. Reverse Integer
 * [Java](../master/Java/src/com/stephenlhc/ReverseInteger.java)
 * [Python](../master/Python/Reverse_Integer.py)
