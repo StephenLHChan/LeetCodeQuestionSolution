@@ -8,6 +8,7 @@ This is my solution to the LeetCode Questions in Java and Python
 
 7. Reverse Integer
 * [Java](../master/Java/src/com/stephenlhc/ReverseInteger.java)
+* [Python](../master/Python/Reverse_Integer.py)
 
 19. Remove Nth Node From End of List
 * [Java](../master/Java/src/com/stephenlhc/RemoveNthNodeFromEndofList.java)
