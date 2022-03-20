@@ -30,6 +30,12 @@ This is my solution to the LeetCode Questions in Java and Python
 * [Java](../master/Java/src/com/stephenlhc/BestTimeToBuyAndSellStock.java)
 * [Python](../master/Python/Best_Time_to_Buy_and_Sell_Stock.py)
 
+136. Single Number
+* [Python](../master/Python/Single_Number.py)
+
+137. Single Number II
+* [Python](../master/Python/Single_Number_II.py)
+
 167. Two Sum II - Input Array Is Sorted
 * [Java](../master/Java/src/com/stephenlhc/TwoSumII.java)
 
@@ -65,6 +71,8 @@ This is my solution to the LeetCode Questions in Java and Python
 * [Java](../master/Java/src/com/stephenlhc/BinarySearch.java)
 * [Python](../master/Python/Binary_Search.py)
 
+976. Largest Perimeter Triangle
+* [Python](../master/Python/Largest_Perimeter_Triangle.py)
 
 977. Squares of a Sorted Array
 * [Java](../master/Java/src/com/stephenlhc/SquaresOfASortedArray.java)
