@@ -83,9 +83,16 @@ This is my solution to the LeetCode Questions in Java and Python
 1491. Average Salary Excluding the Minimum and Maximum Salary
 * [Python](../master/Python/Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.py)
 
+1502. Can Make Arithmetic Progression From Sequence
+* [Python](../master/Python/Can_Make_Arithmetic_Progression_From_Sequence.py)
+
 1523. Count Odd Numbers in an Interval Range
 * [Java](../master/Java/src/com/stephenlhc/CountOddNumbersInAnIntervalRange.java)
 * [Python](../master/Python/Count_Odd_Numbers_in_an_Interval_Range.py)
 
 1672. Richest Customer Wealth
 * [Java](../master/Java/src/com/stephenlhc/RichestCustomerWealth.java)
+* [Python](../master/Python/Richest_Customer_Wealth.py)
+
+1822. Sign of the Product of an Array
+* [Python](../master/Python/Sign_of_the_Product_of_an_Array.py)
