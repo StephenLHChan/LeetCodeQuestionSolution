@@ -50,6 +50,10 @@ This is my solution to the LeetCode Questions in Java and Python
 - [Java](../master/Java/src/com/stephenlhc/PlusOne.java)
 - [Python](../master/Python/Plus_One.py)
 
+101. Symmetric Tree
+
+- [Python](../master/Python/Symmetric_Tree.py)
+
 108. Convert Sorted Array to Binary Search Tree
 
 - [Java](../master/Java/src/com/stephenlhc/ConvertSortedArrayToBST.java)
