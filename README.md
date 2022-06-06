@@ -189,3 +189,7 @@ This is my solution to the LeetCode Questions in Java and Python
 2235. Add Two Integers
 
 - [JavaScript](../master/JavaScript/add-two-integers.js)
+
+2248. Intersection of Multiple Arrays
+
+- [Python](../master/Python/Intersection_of_Multiple_Arrays.py)
