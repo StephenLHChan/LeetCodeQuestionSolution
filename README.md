@@ -121,6 +121,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Java](../master/Java/src/com/stephenlhc/MergeTwoBinaryTrees.java)
 
+680. Valid Palindrome II
+
+- [Python](../master/Python/Valid_Palindrome_II.py)
+
 696. Count Binary Substrings
 
 - [JavaScript](../master/JavaScript/count-binary-substrings.js)
