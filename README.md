@@ -67,6 +67,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Python](../master/Python/Single_Number_II.py)
 
+160. Intersection of Two Linked Lists
+
+- [Python](../master/Python/Intersection_of_Two_Linked_Lists.py)
+
 167. Two Sum II - Input Array Is Sorted
 
 - [Java](../master/Java/src/com/stephenlhc/TwoSumII.java)
