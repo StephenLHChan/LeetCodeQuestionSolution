@@ -172,6 +172,10 @@ This is my solution to the LeetCode Questions in Java and Python
 - [Python](../master/Python/Count_Odd_Numbers_in_an_Interval_Range.py)
 - [JavaScript](../master/JavaScript/count-odd-numbers-in-an-interval-range.js)
 
+1570. Dot Product of Two Sparse Vectors
+
+- [Python](../master/Python/Dot_Product_of_Two_Sparse_Vectors.py)
+
 1672. Richest Customer Wealth
 
 - [Java](../master/Java/src/com/stephenlhc/RichestCustomerWealth.java)
