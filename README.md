@@ -4,6 +4,7 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Java](../master/Java/src/com/stephenlhc/TwoSum.java)
 - [Python](../master/Python/Two_Sum.py)
+- [JavaScript](../master/JavaScript/two-sum.js)
 
 2. Add Two Numbers
 
@@ -18,9 +19,27 @@ This is my solution to the LeetCode Questions in Java and Python
 - [Java](../master/Java/src/com/stephenlhc/ReverseInteger.java)
 - [Python](../master/Python/Reverse_Integer.py)
 
+9. Palindrome Number
+
+- [JavaScript](../master/JavaScript/palindrome-number.js)
+- [Python](../master/Python/Palindrome_Number.py)
+
+13. Roman to Integer
+
+- [JavaScript](../master/JavaScript/roman-to-integer.js)
+
+14. Longest Common Prefix
+
+- [JavaScript](../master/JavaScript/longest-common-prefix.js)
+
 19. Remove Nth Node From End of List
 
 - [Java](../master/Java/src/com/stephenlhc/RemoveNthNodeFromEndofList.java)
+
+20. Valid Parentheses
+
+- [JavaScript](../master/JavaScript/valid-parentheses.js)
+- [Python](../master/Python/Valid_Parentheses.py)
 
 35. Search Insert Position
 
@@ -72,6 +91,7 @@ This is my solution to the LeetCode Questions in Java and Python
 278. First Bad Version
 
 - [Java](../master/Java/src/com/stephenlhc/FirstBadVersion.java)
+- [JavaScript](../master/JavaScript/first-bad-version.js)
 
 326. Power of Three
 
@@ -89,6 +109,11 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Java](../master/Java/src/com/stephenlhc/MergeTwoBinaryTrees.java)
 
+696. Count Binary Substrings
+
+- [JavaScript](../master/JavaScript/count-binary-substrings.js)
+- [Python](../master/Python/Count_Binary_Substrings.py)
+
 700. Search in a Binary Search Tree
 
 - [Java](../master/Java/src/com/stephenlhc/SearchInABinarySearchTree.java)
@@ -97,6 +122,12 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Java](../master/Java/src/com/stephenlhc/BinarySearch.java)
 - [Python](../master/Python/Binary_Search.py)
+- [JavaScript](../master/JavaScript/binary-search.js)
+
+771. Jewels and Stones
+
+- [JavaScript](../master/JavaScript/jewels-and-stones.js)
+- [Python](../master/Python/Jewels_and_Stones.py)
 
 976. Largest Perimeter Triangle
 
@@ -113,21 +144,40 @@ This is my solution to the LeetCode Questions in Java and Python
 1491. Average Salary Excluding the Minimum and Maximum Salary
 
 - [Python](../master/Python/Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.py)
+- [JavaScript](../master/JavaScript/average-salary-excluding-the-minimum-and-maximum-salary.js)
 
 1502. Can Make Arithmetic Progression From Sequence
 
 - [Python](../master/Python/Can_Make_Arithmetic_Progression_From_Sequence.py)
 
+1512. Number of Good Pairs
+
+- [JavaScript](../master/JavaScript/number-of-good-pairs.js)
+
 1523. Count Odd Numbers in an Interval Range
 
 - [Java](../master/Java/src/com/stephenlhc/CountOddNumbersInAnIntervalRange.java)
 - [Python](../master/Python/Count_Odd_Numbers_in_an_Interval_Range.py)
+- [JavaScript](../master/JavaScript/count-odd-numbers-in-an-interval-range.js)
 
 1672. Richest Customer Wealth
 
 - [Java](../master/Java/src/com/stephenlhc/RichestCustomerWealth.java)
 - [Python](../master/Python/Richest_Customer_Wealth.py)
 
+1710. Maximum Units on a Truck
+
+- [Python](../master/Python/Maximum_Units_on_a_Truck.py)
+
 1822. Sign of the Product of an Array
 
 - [Python](../master/Python/Sign_of_the_Product_of_an_Array.py)
+
+1930. Unique Length-3 Palindromic Subsequences
+
+- [JavaScript](../master/JavaScript/unique-length-3-palindromic-subsequences.js)
+- [Python](../master/Python/Unique_Length-3_Palindromic_Subsequences.py)
+
+2235. Add Two Integers
+
+- [JavaScript](../master/JavaScript/add-two-integers.js)
