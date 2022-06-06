@@ -113,6 +113,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Java](../master/Java/src/com/stephenlhc/ValidPerfectSquare.java)
 
+392. Is Subsequence
+
+- [Python](../master/Python/Is_Subsequence.py)
+
 617. Merge Two Binary Trees
 
 - [Java](../master/Java/src/com/stephenlhc/MergeTwoBinaryTrees.java)
