@@ -41,6 +41,10 @@ This is my solution to the LeetCode Questions in Java and Python
 - [JavaScript](../master/JavaScript/valid-parentheses.js)
 - [Python](../master/Python/Valid_Parentheses.py)
 
+26. Remove Duplicates from Sorted Array
+
+- [Python](../master/Python/Remove_Duplicates_from_Sorted_Array.py)
+
 35. Search Insert Position
 
 - [Java](../master/Java/src/com/stephenlhc/SearchInsertPosition.java)
