@@ -164,6 +164,7 @@ This is my solution to the LeetCode Questions in Java and Python
 977. Squares of a Sorted Array
 
 - [Java](../master/Java/src/com/stephenlhc/SquaresOfASortedArray.java)
+- [Python](../master/Python/Squares_of_a_Sorted_Array.py)
 
 1021. Remove Outermost Parentheses
 
