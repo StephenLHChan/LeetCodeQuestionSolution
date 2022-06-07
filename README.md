@@ -96,6 +96,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Java](../master/Java/src/com/stephenlhc/InvertBinaryTree.java)
 
+252. Meeting Rooms
+
+- [Python](../master/Python/Meeting_Rooms.py)
+
 278. First Bad Version
 
 - [Java](../master/Java/src/com/stephenlhc/FirstBadVersion.java)
