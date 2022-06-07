@@ -157,6 +157,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Java](../master/Java/src/com/stephenlhc/SquaresOfASortedArray.java)
 
+1021. Remove Outermost Parentheses
+
+- [Python](../master/Python/Remove_Outermost_Parentheses.py)
+
 1281. Subtract the Product and Sum of Digits of an Integer
 
 - [Python](../master/Python/Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.py)
