@@ -198,7 +198,11 @@ This is my solution to the LeetCode Questions in Java and Python
 - [JavaScript](../master/JavaScript/unique-length-3-palindromic-subsequences.js)
 - [Python](../master/Python/Unique_Length-3_Palindromic_Subsequences.py)
 
-2235. Add Two Integers
+2114. Maximum Number of Words Found in Sentences
+
+- [Python](../master/Python/Maximum_Number_of_Words_Found_in_Sentences.py)
+
+2115. Add Two Integers
 
 - [JavaScript](../master/JavaScript/add-two-integers.js)
 
