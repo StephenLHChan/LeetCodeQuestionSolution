@@ -50,6 +50,10 @@ This is my solution to the LeetCode Questions in Java and Python
 - [Java](../master/Java/src/com/stephenlhc/PlusOne.java)
 - [Python](../master/Python/Plus_One.py)
 
+88. Merge Sorted Array
+
+- [Python](../master/Python/Merge_Sorted_Array.py)
+
 101. Symmetric Tree
 
 - [Python](../master/Python/Symmetric_Tree.py)
