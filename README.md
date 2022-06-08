@@ -113,6 +113,10 @@ This is my solution to the LeetCode Questions in Java and Python
 - [Java](../master/Java/src/com/stephenlhc/FirstBadVersion.java)
 - [JavaScript](../master/JavaScript/first-bad-version.js)
 
+283. Move Zeroes
+
+- [Python](../master/Python/Move_Zeroes.py)
+
 326. Power of Three
 
 - [Java](../master/Java/src/com/stephenlhc/PowerOfThree.java)
