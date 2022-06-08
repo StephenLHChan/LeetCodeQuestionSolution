@@ -174,6 +174,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Python](../master/Python/Remove_Outermost_Parentheses.py)
 
+1214. Two Sum BSTs
+
+- [Python](../master/Python/Two_Sum_BSTs.py)
+
 1281. Subtract the Product and Sum of Digits of an Integer
 
 - [Python](../master/Python/Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.py)
