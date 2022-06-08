@@ -96,6 +96,10 @@ This is my solution to the LeetCode Questions in Java and Python
 - [Java](../master/Java/src/com/stephenlhc/HappyNumber.java)
 - [Python](../master/Python/Happy_Number.py)
 
+215. Kth Largest Element in an Array
+
+- [Python](../master/Python/Kth_Largest_Element_in_an_Array.py)
+
 219. Contains Duplicate II
 
 - [Java](../master/Java/src/com/stephenlhc/ContainsDuplicateII.java)
