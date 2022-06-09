@@ -129,6 +129,7 @@ This is my solution to the LeetCode Questions in Java and Python
 344. Reverse String
 
 - [Java](../master/Java/src/com/stephenlhc/ReverseString.java)
+- [Python](../master/Python/Reverse_String.py)
 
 367. Valid Perfect Square
 
