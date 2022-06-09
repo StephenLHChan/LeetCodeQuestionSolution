@@ -86,6 +86,7 @@ This is my solution to the LeetCode Questions in Java and Python
 167. Two Sum II - Input Array Is Sorted
 
 - [Java](../master/Java/src/com/stephenlhc/TwoSumII.java)
+- [Python](../master/Python/Two_Sum_II_Input_Array_Is_Sorted.py)
 
 191. Number of 1 Bits
 
