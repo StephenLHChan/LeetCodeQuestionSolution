@@ -9,6 +9,7 @@ This is my solution to the LeetCode Questions in Java and Python
 2. Add Two Numbers
 
 - [Java](../master/Java/src/com/stephenlhc/AddTwoNumbers.java)
+- [Python](../master/Python/Add_Two_Numbers.py)
 
 4. Median of Two Sorted Arrays
 
