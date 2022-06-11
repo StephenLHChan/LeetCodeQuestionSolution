@@ -173,6 +173,10 @@ This is my solution to the LeetCode Questions in Java and Python
 - [JavaScript](../master/JavaScript/jewels-and-stones.js)
 - [Python](../master/Python/Jewels_and_Stones.py)
 
+876. Middle of the Linked List
+
+- [Python](../master/Python/Middle_of_the_Linked_List.py)
+
 973. K Closest Points to Origin
 
 - [Python](../master/Python/K_Closest_Points_to_Origin.py)
