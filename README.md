@@ -229,6 +229,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Python](../master/Python/Dot_Product_of_Two_Sparse_Vectors.py)
 
+1572. Matrix Diagonal Sum
+
+- [Python](../master/Python/Matrix_Diagonal_Sum.py)
+
 1672. Richest Customer Wealth
 
 - [Java](../master/Java/src/com/stephenlhc/RichestCustomerWealth.java)
