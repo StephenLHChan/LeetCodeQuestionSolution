@@ -168,6 +168,10 @@ This is my solution to the LeetCode Questions in Java and Python
 - [Python](../master/Python/Binary_Search.py)
 - [JavaScript](../master/JavaScript/binary-search.js)
 
+709. To Lower Case
+
+- [Python](../master/Python/To_Lower_Case.py)
+
 771. Jewels and Stones
 
 - [JavaScript](../master/JavaScript/jewels-and-stones.js)
