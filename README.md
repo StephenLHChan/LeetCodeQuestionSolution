@@ -206,6 +206,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Python](../master/Python/Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.py)
 
+1290. Convert Binary Number in a Linked List to Integer
+
+- [Python](../master/Python/Convert_Binary_Number_in_a_Linked_List_to_Integer.py)
+
 1331. Rank Transform of an Array
 
 - [Python](../master/Python/Rank_Transform_of_an_Array.py)
