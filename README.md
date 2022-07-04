@@ -47,6 +47,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Python](../master/Python/Remove_Duplicates_from_Sorted_Array.py)
 
+33. Search in Rotated Sorted Array
+
+- [Python](../master/Python/Search_in_Rotated_Sorted_Array.py)
+
 34. Find First and Last Position of Element in Sorted Array
 
 - [Python](../master/Python/Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)
