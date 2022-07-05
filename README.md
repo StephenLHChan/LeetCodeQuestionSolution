@@ -97,6 +97,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Python](../master/Python/Linked_List_Cycle.py)
 
+153. Find Minimum in Rotated Sorted Array
+
+- [Python](../master/Python/Find_Minimum_in_Rotated_Sorted_Array.py)
+
 160. Intersection of Two Linked Lists
 
 - [Python](../master/Python/Intersection_of_Two_Linked_Lists.py)
