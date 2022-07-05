@@ -105,6 +105,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Python](../master/Python/Intersection_of_Two_Linked_Lists.py)
 
+162. Find Peak Element
+
+- [Python](../master/Python/Find_Peak_Element.py)
+
 167. Two Sum II - Input Array Is Sorted
 
 - [Java](../master/Java/src/com/stephenlhc/TwoSumII.java)
