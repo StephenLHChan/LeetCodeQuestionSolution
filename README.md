@@ -59,6 +59,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Java](../master/Java/src/com/stephenlhc/SearchInsertPosition.java)
 
+64. Minimum Path Sum
+
+- [Python](../master/Python/Minimum_Path_Sum.py)
+
 66. Plus One
 
 - [Java](../master/Java/src/com/stephenlhc/PlusOne.java)
