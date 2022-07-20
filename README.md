@@ -152,7 +152,11 @@ This is my solution to the LeetCode Questions in Java and Python
 - [Java](../master/Java/src/com/stephenlhc/FirstBadVersion.java)
 - [JavaScript](../master/JavaScript/first-bad-version.js)
 
-283. Move Zeroes
+279. Perfect Squares
+
+- [Python](../master/Python/Perfect_Squares.py)
+
+280. Move Zeroes
 
 - [Python](../master/Python/Move_Zeroes.py)
 
