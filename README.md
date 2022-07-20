@@ -230,6 +230,10 @@ This is my solution to the LeetCode Questions in Java and Python
 - [Java](../master/Java/src/com/stephenlhc/SquaresOfASortedArray.java)
 - [Python](../master/Python/Squares_of_a_Sorted_Array.py)
 
+983. Minimum Cost For Tickets
+
+- [Python](../master/Python/Minimum_Cost_For_Tickets.py)
+
 1021. Remove Outermost Parentheses
 
 - [Python](../master/Python/Remove_Outermost_Parentheses.py)
