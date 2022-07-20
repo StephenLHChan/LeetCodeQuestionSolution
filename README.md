@@ -213,6 +213,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Python](../master/Python/Middle_of_the_Linked_List.py)
 
+931. Minimum Falling Path Sum
+
+- [Python](../master/Python/Minimum_Falling_Path_Sum.py)
+
 973. K Closest Points to Origin
 
 - [Python](../master/Python/K_Closest_Points_to_Origin.py)
