@@ -84,6 +84,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Java](../master/Java/src/com/stephenlhc/ConvertSortedArrayToBST.java)
 
+120. Triangle
+
+- [Python](../master/Python/Triangle.py)
+
 121. Best Time to Buy and Sell Stock
 
 - [Java](../master/Java/src/com/stephenlhc/BestTimeToBuyAndSellStock.java)
