@@ -212,6 +212,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Python](../master/Python/To_Lower_Case.py)
 
+746. Min Cost Climbing Stairs
+
+- [Python](../master/Python/Min_Cost_Climbing_Stairs.py)
+
 771. Jewels and Stones
 
 - [JavaScript](../master/JavaScript/jewels-and-stones.js)
