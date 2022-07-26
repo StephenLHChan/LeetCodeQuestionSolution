@@ -159,6 +159,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Java](../master/Java/src/com/stephenlhc/InvertBinaryTree.java)
 
+236. Lowest Common Ancestor of a Binary Tree
+
+- [Python](../master/Python/Lowest_Common_Ancestor_of_a_Binary_Tree.py)
+
 252. Meeting Rooms
 
 - [Python](../master/Python/Meeting_Rooms.py)
