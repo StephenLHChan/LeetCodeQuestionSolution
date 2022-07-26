@@ -232,6 +232,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Python](../master/Python/To_Lower_Case.py)
 
+724. Find Pivot Index
+
+- [Python](../master/Python/Find_Pivot_Index.py)
+
 746. Min Cost Climbing Stairs
 
 - [Python](../master/Python/Min_Cost_Climbing_Stairs.py)
