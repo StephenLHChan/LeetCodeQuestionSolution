@@ -286,6 +286,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Python](../master/Python/Rank_Transform_of_an_Array.py)
 
+1480. Running Sum of 1d Array
+
+- [Python](../master/Python/Running_Sum_of_1d_Array.py)
+
 1491. Average Salary Excluding the Minimum and Maximum Salary
 
 - [Python](../master/Python/Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.py)
