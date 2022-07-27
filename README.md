@@ -213,6 +213,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Python](../master/Python/Valid_Palindrome_II.py)
 
+695. Max Area of Island
+
+- [Python](../master/Python/Max_Area \_of_Island.py)
+
 696. Count Binary Substrings
 
 - [JavaScript](../master/JavaScript/count-binary-substrings.js)
