@@ -100,6 +100,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Java](../master/Java/src/com/stephenlhc/ConvertSortedArrayToBST.java)
 
+114. Flatten Binary Tree to Linked List
+
+- [Python](../master/Python/Flatten_Binary_Tree_to_Linked_List.py)
+
 120. Triangle
 
 - [Python](../master/Python/Triangle.py)
