@@ -92,6 +92,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Python](../master/Python/Merge_Sorted_Array.py)
 
+98. Validate Binary Search Tree
+
+- [Python](../master/Python/Validate_Binary_Search_Tree.py)
+
 101. Symmetric Tree
 
 - [Python](../master/Python/Symmetric_Tree.py)
