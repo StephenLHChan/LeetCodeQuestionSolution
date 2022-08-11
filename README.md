@@ -205,6 +205,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Java](../master/Java/src/com/stephenlhc/ValidPerfectSquare.java)
 
+374. Guess Number Higher or Lower
+
+- [Python](../master/Python/Guess_Number_Higher_or_Lower.py)
+
 377. Combination Sum IV
 
 - [Python](../master/Python/Combination_Sum_IV.py)
