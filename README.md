@@ -163,6 +163,10 @@ This is my solution to the LeetCode Questions in Java and Python
 
 - [Python](../master/Python/Kth_Largest_Element_in_an_Array.py)
 
+217. Contains Duplicate
+
+- [Python](../master/Python/Contains_Duplicate.py)
+
 219. Contains Duplicate II
 
 - [Java](../master/Java/src/com/stephenlhc/ContainsDuplicateII.java)
