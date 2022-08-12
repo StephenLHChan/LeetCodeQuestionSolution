@@ -58,6 +58,7 @@ This is my solution to the LeetCode Questions in Java and Python
 35. Search Insert Position
 
 - [Java](../master/Java/src/com/stephenlhc/SearchInsertPosition.java)
+- [Python](../master/Python/Search_Insert_Position.py)
 
 53. Maximum Subarray
 
